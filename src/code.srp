@@ -1,0 +1,6 @@
+al1 = 0;
+
+do{
+    al1 = al1 + 1;
+    write(al1);
+}while(al1 < 5);
